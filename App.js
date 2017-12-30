@@ -3,6 +3,8 @@ import React from 'react';
 import ReactNative from 'react-native';
 
 // create a component
-
-
-// render it to the device
+const App = () => {
+  return (
+    <Text>lorem ipsum</Text>
+  );
+};
